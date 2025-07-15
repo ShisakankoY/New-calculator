@@ -2,8 +2,15 @@
 画面上で場所を取らない簡易的な計算機
 
 ##使い方
+```
 <script type="module" src="https://shisakankoy.github.io/New-calculator/Main.js"></script>
-```<button type="button" id="button">Start</button><div id="answer"></div>
+```
+```
+<button type="button" id="button">Start</button>
+```
+```
+<div id="answer"></div>
+```
 をHTMLファイルに追加してください。
 
 ##機能
