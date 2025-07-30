@@ -17,8 +17,10 @@
 Startを押すと、ポップアップとして計算機各項目が順に出てきます。順に数値・記号を入れてください。
 
 ###ファイル構成
-New‑calculator/
+New-calculator/
 ├── index.html
 ├── Main.js
 ├── Module.js
-└── README.md
+├── README.md
+└── LICENSE
+
